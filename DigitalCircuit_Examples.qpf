@@ -18,20 +18,22 @@
 #
 # Quartus Prime
 # Version 18.1.0 Build 625 09/12/2018 SJ Standard Edition
-# Date created = 22:21:50  December 24, 2019
+# Date created = 19:40:37  December 11, 2020
 #
 # -------------------------------------------------------------------------- #
 
 QUARTUS_VERSION = "18.1"
-DATE = "22:21:50  December 24, 2019"
+DATE = "19:40:37  December 11, 2020"
 
 # Revisions
 
-PROJECT_REVISION = "cnt24_buffer"
-PROJECT_REVISION = "cnt24_disp"
-PROJECT_REVISION = "encoder"
-PROJECT_REVISION = "mux21"
-PROJECT_REVISION = "binary_counter_4bits"
+PROJECT_REVISION = "detector"
 PROJECT_REVISION = "sequ_mult"
-PROJECT_REVISION = "SHIFT1"
+PROJECT_REVISION = "cnt24_disp"
+PROJECT_REVISION = "binary_counter_4bits"
+PROJECT_REVISION = "dff_dlatch"
+PROJECT_REVISION = "mux21"
 PROJECT_REVISION = "DigitalCircuit_Examples"
+PROJECT_REVISION = "cnt24_buffer"
+PROJECT_REVISION = "encoder"
+PROJECT_REVISION = "SHIFT1"
